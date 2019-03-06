@@ -16,5 +16,5 @@ public class operararray {
 		}
 	}
 	
-	//copia1
+	//eslacopia1
 }
