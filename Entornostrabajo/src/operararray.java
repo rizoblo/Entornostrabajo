@@ -5,7 +5,7 @@ public class operararray {
 	static int numeroaleatorio=0;
 	public static void main(String[] args) {
 		rellenararray();
-
+		imprimirarray();
 	}
 
 	public static void rellenararray() {
@@ -16,6 +16,10 @@ public class operararray {
 		}
 	}
 	
-	//eslacopia1
-	//copia2
+	public static void imprimirarray() {
+		for(int i=0;i<array.length;i++) {
+		System.out.println(array[i]);
+		
+	}
+	//copia1
 }
