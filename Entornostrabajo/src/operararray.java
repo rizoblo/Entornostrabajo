@@ -28,7 +28,7 @@ public class operararray {
 	public static void sumararray() {
 		for(int i=0;i<array.length;i++) {
 		suma+=array[i];	
-		
+		}
 	}
 	//copia1
 		
