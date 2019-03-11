@@ -37,4 +37,14 @@ public class operararray {
 	//copia1
 		
 	//Ahora copia2
+
+	
+		
+	
+	public static void nuevometodo2() {
+		System.out.println("Soy el clon de la rama2");
+	}
+	//copia1
+		
+	//Ahora copia2
 }
