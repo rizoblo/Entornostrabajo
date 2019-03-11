@@ -30,6 +30,10 @@ public class operararray {
 		suma+=array[i];	
 		}
 	}
+	
+	public static void nuevometodo2() {
+		System.out.println("Soy el clon de la rama2");
+	}
 	//copia1
 		
 	//Ahora copia2
